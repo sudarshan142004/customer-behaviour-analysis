@@ -24,7 +24,7 @@ Highlights trends, customer categories, and behavioral clusters based on analysi
 📊 Dataset Source
 
 The dataset is sourced from Kaggle:
-🔗 Customer Behavior Analysis – Kaggle Dataset
+🔗 https://www.kaggle.com/datasets/bhanupratapbiswas/customer-behavior-analysis
 
 📊 Key Features
 
